@@ -1,0 +1,22 @@
+:root {
+  --font-ral: 'Raleway', sans-serif;
+  --color-blue: #08A6E4;
+  --font-sans: 'Open Sans', sans-serif;
+  --color-black: #000000;
+}
+
+* {
+  block-size: border-box;
+
+}
+
+body {
+  width: auto;
+  margin: 0 auto;
+}
+
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
